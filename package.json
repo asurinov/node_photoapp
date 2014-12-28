@@ -10,6 +10,7 @@
     "body-parser": "*",
     "method-override": "*",
     "errorhandler": "*",
-    "config": "*"
+    "config": "*",
+    "formidable": "*"
   }
 }
