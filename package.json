@@ -1,0 +1,15 @@
+{
+  "name": "photoalbum",
+  "version": "0.0.1",
+  "dependencies": {
+    "ejs": "*",
+    "express": "*",
+    "mongoose": "*",
+    "serve-favicon": "*",
+    "express-logger": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "errorhandler": "*",
+    "config": "*"
+  }
+}
